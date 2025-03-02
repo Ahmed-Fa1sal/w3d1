@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\w3d1.props" />
+</Project>
