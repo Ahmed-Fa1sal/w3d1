@@ -169,3 +169,4 @@ C:\Users\DerRi\w3d1\obj\Debug\net9.0\refint\w3d1.dll
 C:\Users\DerRi\w3d1\obj\Debug\net9.0\w3d1.pdb
 C:\Users\DerRi\w3d1\obj\Debug\net9.0\w3d1.genruntimeconfig.cache
 C:\Users\DerRi\w3d1\obj\Debug\net9.0\ref\w3d1.dll
+C:\Users\DerRi\w3d1\obj\Debug\net9.0\w3d1.sourcelink.json
